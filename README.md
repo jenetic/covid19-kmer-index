@@ -1,4 +1,4 @@
-# COVID19-kmer-index
+# COVID-19 k-mer Index
 By: Jenny Lam, Riley Kong, and Andrew Hong
 
 Mentor: Hojoon Lee PhD
