@@ -30,4 +30,4 @@ Running the file `SARS-CoV-2_k-mer_index.py` would generate a CSV file titled `o
 |Unique 20-mers|List of unique 20-mers containing mutation (20-mers that don't appear in any other mutation)|
 
 ## Credits
-This project was created by Jenny Lam, Riley Kong, and Andrew Hong, with guidance from HoJoon Lee.
+This was created by Jenny Lam, Riley Kong, and Andrew Hong, with guidance from HoJoon Lee.
